@@ -20,7 +20,7 @@
 <p>
   - 홈페이지 확인하기 :
   <br>
-  1. 
+  1. https://judiking1.github.io/todo/
   <br>
   2. (위 링크 실행 안될시) https://judiking1.cafe24.com/todo
 </p>
